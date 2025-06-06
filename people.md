@@ -6,5 +6,6 @@
 - ...
 
 ## Students
+- [Rick de Kreij](https://orcid.org/0000-0003-0824-8185)
 - ...
 
